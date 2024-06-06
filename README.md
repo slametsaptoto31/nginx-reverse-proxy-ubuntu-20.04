@@ -66,7 +66,7 @@
 
 6. #### Lakukan link
 ```sh
-  ln -s /etc/nginx/sites-available/tomcat.conf /etc/nginx/sites-enabled/
+  ln -s /etc/nginx/sites-available/contoh.conf /etc/nginx/sites-enabled/
 ```
 
 7. #### Restart nginx
